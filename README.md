@@ -1,2 +1,3 @@
 # TechSemMisterio
-Personal Website 
+
+Website using JS, HTML and CSS
